@@ -1,5 +1,5 @@
 ### Hey 👋🏽, I'm [Diego!](https://about.me/diegotomfurtado) 
-A QA Evangelist who is looking for the answer for Life, the Universe, and Everything; facing this awesome journey together with sort of developers while building quality software, applying agile principles. During this journey, I've been discovered a collaborative guy who's enjoying automation practices and test strategy..., Wow... I'm passionate about it! <img alt="GIF" src="https://emoji.slack-edge.com/T03BTCQAJ/loveparrot/473151ca425cede5.gif" />
+A QA Evangelist who is looking for the answer for Life, the Universe, and Everything; facing this awesome journey together with sort of developers while building quality software, applying agile principles. During this journey, I've been discovered myself as a collaborative guy who's enjoying automation practices and test strategy..., Wow... I'm passionate about it! <img alt="GIF" src="https://emoji.slack-edge.com/T03BTCQAJ/loveparrot/473151ca425cede5.gif" />
 
 <a href="https://www.linkedin.com/in/diegotomfurtado/">
   <img align="left" alt="Diego Furtado LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
